@@ -1,0 +1,5 @@
+.container{ padding:20px; max-width:900px; margin:10px auto;}
+input{display:block;margin:8px 0;padding:8px;}
+button{margin:6px;}
+table{width:100%;border-collapse:collapse;}
+td,th{border:1px solid #ddd;padding:8px;}
